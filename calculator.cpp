@@ -113,3 +113,5 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	}
 	return msg.wParam;
 }
+
+//แดงทำไม
